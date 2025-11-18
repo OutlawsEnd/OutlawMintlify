@@ -71,13 +71,13 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Discord",
+          "href": "https://discord.gg/rCZSNtys6c",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Tebex",
+          "href": "https://discord.gg/rCZSNtys6c",
           "icon": "newspaper"
         }
       ]
